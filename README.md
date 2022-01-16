@@ -7,3 +7,5 @@ These waveforms may be chosen by selecting a bunch of switches. They waveforms a
 Through the use of buttons, the frequency and amplitude of each of these waves may be increased or decreased.
 
 A buzzer can also be attached to the FPGA, and sound produced from it. It is linked to the square-wave module, and a change in the square wave's modulation will change the buzzer frequency.
+
+Completed as the 4th practical lab for ENEL 453 - Digital Systems Design
